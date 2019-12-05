@@ -1,35 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muza&#39;s Blog</title>
-    <link>https://mzakdr.com/</link>
-    <description>Recent content on Muza&#39;s Blog</description>
+    <title>Posts on Muza&#39;s Blog</title>
+    <link>https://mzakdr.com/posts/</link>
+    <description>Recent content in Posts on Muza&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Dec 2019 18:39:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 20:16:02 +0800</lastBuildDate>
     
-	<atom:link href="https://mzakdr.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mzakdr.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Yasin by Maulana Shaykh Nazim</title>
-      <link>https://mzakdr.com/other/yasin-by-maulana-shaykh-nazim/</link>
-      <pubDate>Thu, 05 Dec 2019 18:39:21 +0800</pubDate>
-      
-      <guid>https://mzakdr.com/other/yasin-by-maulana-shaykh-nazim/</guid>
-      <description>My usual listening after Fajr prayers.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://mzakdr.com/about/</link>
-      <pubDate>Wed, 04 Dec 2019 20:21:07 +0800</pubDate>
-      
-      <guid>https://mzakdr.com/about/</guid>
-      <description>My name is Muza.
-This is my journey towards love.
-You can reach me at mzakdr@gmail.com</description>
-    </item>
     
     <item>
       <title>I Choose To Love You</title>

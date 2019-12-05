@@ -3,15 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mzakdr.com/categories/</loc>
+    <loc>https://mzakdr.com/</loc>
+    <lastmod>2019-12-05T18:39:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mzakdr.com/</loc>
+    <loc>https://mzakdr.com/other/</loc>
+    <lastmod>2019-12-05T18:39:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/other/yasin-by-maulana-shaykh-nazim/</loc>
+    <lastmod>2019-12-05T18:39:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/about/</loc>
+    <lastmod>2019-12-04T20:21:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/posts/i-choose-to-love-you/</loc>
+    <lastmod>2019-12-04T20:16:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/tags/love/</loc>
+    <lastmod>2019-12-04T20:16:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/posts/</loc>
+    <lastmod>2019-12-04T20:16:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/tags/rumi/</loc>
+    <lastmod>2019-12-04T20:16:02+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://mzakdr.com/tags/</loc>
+    <lastmod>2019-12-04T20:16:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/tags/blog/</loc>
+    <lastmod>2019-12-04T19:11:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/posts/my-first-post/</loc>
+    <lastmod>2019-12-04T19:11:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/tags/story/</loc>
+    <lastmod>2019-12-04T19:11:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mzakdr.com/categories/</loc>
   </url>
   
 </urlset>

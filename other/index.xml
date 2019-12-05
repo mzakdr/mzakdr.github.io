@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on Muza&#39;s Blog</title>
+    <link>https://mzakdr.com/other/</link>
+    <description>Recent content in Others on Muza&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 18:39:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://mzakdr.com/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yasin by Maulana Shaykh Nazim</title>
+      <link>https://mzakdr.com/other/yasin-by-maulana-shaykh-nazim/</link>
+      <pubDate>Thu, 05 Dec 2019 18:39:21 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/other/yasin-by-maulana-shaykh-nazim/</guid>
+      <description>My usual listening after Fajr prayers.</description>
+    </item>
+    
+  </channel>
+</rss>
