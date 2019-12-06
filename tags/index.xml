@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Muza&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Dec 2019 20:16:02 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 19:01:10 +0800</lastBuildDate>
     
 	<atom:link href="https://mzakdr.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>happiness</title>
+      <link>https://mzakdr.com/tags/happiness/</link>
+      <pubDate>Fri, 06 Dec 2019 19:01:10 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rumi</title>
+      <link>https://mzakdr.com/tags/rumi/</link>
+      <pubDate>Fri, 06 Dec 2019 19:01:10 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/tags/rumi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>love</title>
@@ -17,15 +35,6 @@
       <pubDate>Wed, 04 Dec 2019 20:16:02 +0800</pubDate>
       
       <guid>https://mzakdr.com/tags/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rumi</title>
-      <link>https://mzakdr.com/tags/rumi/</link>
-      <pubDate>Wed, 04 Dec 2019 20:16:02 +0800</pubDate>
-      
-      <guid>https://mzakdr.com/tags/rumi/</guid>
       <description></description>
     </item>
     

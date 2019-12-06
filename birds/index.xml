@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rumi on Muza&#39;s Blog</title>
-    <link>https://mzakdr.com/tags/rumi/</link>
-    <description>Recent content in rumi on Muza&#39;s Blog</description>
+    <title>Birds on Muza&#39;s Blog</title>
+    <link>https://mzakdr.com/birds/</link>
+    <description>Recent content in Birds on Muza&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Dec 2019 19:01:10 +0800</lastBuildDate>
     
-	<atom:link href="https://mzakdr.com/tags/rumi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mzakdr.com/birds/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,6 +31,15 @@ I choose to love you in loneliness… For in loneliness no one owns you but me,
 I choose to adore you from a distance… For distance will shield me from pain,
 I choose to kiss you in the wind… For the wind is gentler than my lips,
 I choose to hold you in my dreams… For in my dreams, you have no end.</description>
+    </item>
+    
+    <item>
+      <title>My First Bird</title>
+      <link>https://mzakdr.com/birds/my-first-bird/</link>
+      <pubDate>Wed, 04 Dec 2019 19:11:16 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/birds/my-first-bird/</guid>
+      <description>i believe i can. i will.</description>
     </item>
     
   </channel>

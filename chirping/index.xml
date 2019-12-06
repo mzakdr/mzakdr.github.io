@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chirpings on Muza&#39;s Blog</title>
+    <link>https://mzakdr.com/chirping/</link>
+    <description>Recent content in Chirpings on Muza&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 19:12:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://mzakdr.com/chirping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why the Stories We Tell Shape Ourselves</title>
+      <link>https://mzakdr.com/chirping/why-the-stories-we-tell-shape-ourselves/</link>
+      <pubDate>Fri, 06 Dec 2019 19:12:58 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/chirping/why-the-stories-we-tell-shape-ourselves/</guid>
+      <description>this video is a story about stories. i miss you, dearly.</description>
+    </item>
+    
+    <item>
+      <title>Yasin by Maulana Shaykh Nazim</title>
+      <link>https://mzakdr.com/chirping/yasin-by-maulana-shaykh-nazim/</link>
+      <pubDate>Thu, 05 Dec 2019 18:39:21 +0800</pubDate>
+      
+      <guid>https://mzakdr.com/chirping/yasin-by-maulana-shaykh-nazim/</guid>
+      <description>My usual listening after Fajr prayers.</description>
+    </item>
+    
+  </channel>
+</rss>
